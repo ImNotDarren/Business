@@ -15,10 +15,8 @@ training data will be used to train the model and the testing data will be used 
 the accuracy.
 
 ## Tools
-I'll be using Chrome to better understand the website that I'm going to scrape, and Python
-packages like statsmodels and BeautifulSoup for regression calculation, matplotlib, pandas for vitualization
-and data cleaning. 
+I'll be using Google Sheets for exploratory data analysis, Tableau for visualization.
 
 ## MVP goal
-My MVP goal would be scraping and cleaning the data from cars.com, and show some vitualization
-of the data and the model.
+My MVP goal would be to use data to address the client's problem and give a rough solution
+to the problem.
