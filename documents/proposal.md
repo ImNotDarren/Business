@@ -15,7 +15,8 @@ training data will be used to train the model and the testing data will be used 
 the accuracy.
 
 ## Tools
-I'll be using Google Sheets for exploratory data analysis, Tableau for visualization.
+* **Google Sheets** for exploratory data analysis
+* **Tableau** for visualization.
 
 ## MVP goal
 My MVP goal would be to use data to address the client's problem and give a rough solution
