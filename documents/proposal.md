@@ -1,23 +1,21 @@
 # Project Proposal - Darren Liu
 ## Background Story
 
-Nowadays, because of the COVID situation, used cars are getting more and more expensive.
-People are usually confused if they should get a car now or if they should wait. Hence,
-more and more people need a car price predicting tool to predict the price of used cars
-to avoid spending too much money.
+Teamfight Tactics is a Riot game in League of Legends. It used to be very popular in
+Set 6, but after the update of Set 7, it's losing a lot of players. I'm trying to use
+exploratory data analysis to address the cause of the problem and give a solution to it.
 
 ## Data discription
 
-The data I need for the model will be collected by scraping cars.com, where I can get
-the car's price, year, model, milage, engine and so on. Each row will represent a car's
-information. The data will be divide into two parts: training data and testing data. The
-training data will be used to train the model and the testing data will be used to test
-the accuracy.
+I'll use the player data of riot. Each row will represent each game, containing each
+player's combo, traits, game time, etc. I haven't find a usable dataset yet but the dataset
+will include as many entries as possible. I'll update the dataset information as soon as
+I find it.
 
 ## Tools
-* **Google Sheets** for exploratory data analysis
+* **Google Sheets** and **SQLite** for exploratory data analysis
 * **Tableau** for visualization.
 
 ## MVP goal
-My MVP goal would be to use data to address the client's problem and give a rough solution
-to the problem.
+My MVP goal would be to use data to address the cause to the problem and give a rough
+solution to the problem.
