@@ -30,7 +30,7 @@
 
 ## <a name="link-part-6">Communication</a>
 
-Project proposal is shown [here](/documents/Proposal.md).
+Project proposal is shown [here](/documents/proposal.md).
 
 ## <a name="link-part-7">How to run</a>
 
