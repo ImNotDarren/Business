@@ -1,4 +1,4 @@
-# Business
+# Uber vs. Lyft
 ## Table of Contents
 - [Abstract](#link-part-1)
 - [Design](#link-part-2)
