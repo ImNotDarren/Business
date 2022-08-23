@@ -1,16 +1,15 @@
 # Project Proposal - Darren Liu
 ## Background Story
 
-Teamfight Tactics is a Riot game in League of Legends. It used to be very popular in
-Set 6, but after the update of Set 7, it's losing a lot of players. I'm trying to use
-exploratory data analysis to address the cause of the problem and give a solution to it.
+Uber used to be the No.1 transportation app in the world, but it's market is gradually taken
+by Lyft and some other transportation apps. By analyzing Uber and Lyft ride dataset, we're
+able to provide Uber a solution to increase its market and gain more profit.
 
 ## Data discription
 
-I'll use the player data of riot. Each row will represent each game, containing each
-player's combo, traits, game time, etc. I haven't find a usable dataset yet but the dataset
-will include as many entries as possible. I'll update the dataset information as soon as
-I find it.
+I'll use the Uber and Lyft ride dataset in Boston, MA. It contains 693071 rows and 57 columns.
+This dataset is kind of large so I won't be using all of the rows. I'll sample around 2000 rows
+and focus on 10-20 columns that provide the most important information.
 
 ## Tools
 * **Google Sheets** and **SQLite** for exploratory data analysis
