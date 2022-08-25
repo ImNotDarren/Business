@@ -5,6 +5,12 @@ Uber used to be the No.1 transportation app in the world, but it's market is gra
 by Lyft and some other transportation apps. By analyzing Uber and Lyft ride dataset, we're
 able to provide Uber a solution to increase its market and gain more profit.
 
+## Solution path
+
+Uber and Lyft ride data in Boston are accessable for analysis. This dataset shows each ride's
+time, destination, price, distance, weather and so on. This can give us lots of information on
+people's preference of booking taxies which can help Uber improve their service.
+
 ## Data discription
 
 I'll use the Uber and Lyft ride dataset in Boston, MA. It contains 693071 rows and 57 columns.
