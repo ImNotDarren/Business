@@ -24,11 +24,18 @@ people's preference of booking taxies which can help Uber improve their service.
 
 ## Criteria for Success
 
-TBD
+Success would be showing visualizations to address the client's problems and give practical
+solutions based on the results.
 
 ## Assumptions and Risks
 
-TBD
+**Assumptions:**
+- Lyft customers will immediately move to Uber once Uber solves it's problem.
+- Lyft is not making any improvement in the meantime.
+
+**Risks:**
+- Data in Boston may not reflect all situations in the US. Applying the solution generated from
+this dataset may not apply well in other states.
 
 ## Tools
 * **Google Sheets**, **Microsoft Excel** and **SQLite** for exploratory data analysis
