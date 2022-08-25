@@ -18,7 +18,7 @@ This dataset is kind of large so I won't be using all of the rows. I'll sample a
 and focus on 10-20 columns that provide the most important information.
 
 ## Tools
-* **Google Sheets** and **SQLite** for exploratory data analysis
+* **Google Sheets**, **Microsoft Excel** and **SQLite** for exploratory data analysis
 * **Tableau** for visualization.
 
 ## MVP goal
