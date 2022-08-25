@@ -6,7 +6,6 @@
 - [Algorithm](#link-part-4)
 - [Tools](#link-part-5)
 - [Communication](#link-part-6)
-- [**How to run**](#link-part-7)
 
 ## <a name="link-part-1">Abstract</a>
 
@@ -31,6 +30,4 @@
 ## <a name="link-part-6">Communication</a>
 
 Project proposal is shown [here](/documents/proposal.md).
-
-## <a name="link-part-7">How to run</a>
 
