@@ -35,7 +35,7 @@ solutions based on the results.
 
 **Risks:**
 - Data in Boston may not reflect all situations in the US. Applying the solution generated from
-this dataset may not apply well in other states.
+this dataset may not suit well in other states.
 
 ## Tools
 * **Google Sheets**, **Microsoft Excel** and **SQLite** for exploratory data analysis
