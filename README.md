@@ -32,3 +32,5 @@
 
 Project proposal is shown [here](/documents/proposal.md).
 
+MVP document is shown [here](/documents/mvp.md).
+
