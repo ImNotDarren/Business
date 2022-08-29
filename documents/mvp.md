@@ -5,6 +5,8 @@
 The cleaned dataset is shown [here](/data/rideshare_dataset.csv) which
 contains 2469 rows and 20 columns.
 
+The Excel file is [here](/rideshare_dataset.xlsx).
+
 ## Virtualizations
 <img src="../images/pie_charts.png" style="width: 800px;" />
 <img src="../images/average_price_per_mile.png" style="width: 300px;" />
