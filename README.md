@@ -25,7 +25,7 @@
 
 ## <a name="link-part-5">Tools</a>
 
-* **Google Sheets**, **Microsoft Excel** and **SQLite** for exploratory data analysis
+* **Google Sheets** and **Microsoft Excel** for exploratory data analysis and visualization.
 * **Tableau** for visualization.
 
 ## <a name="link-part-6">Communication</a>
