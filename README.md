@@ -30,6 +30,8 @@
 
 ## <a name="link-part-6">Communication</a>
 
+<img src="../images/img1.png" style="width: 500px;" />
+
 Project proposal is shown [here](/documents/proposal.md).
 
 MVP document is shown [here](/documents/mvp.md).
