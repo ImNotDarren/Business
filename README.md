@@ -30,7 +30,7 @@
 
 ## <a name="link-part-6">Communication</a>
 
-<img src="/images/charts.png" style="width: 500px;" />
+<img src="images/charts.png" style="width: 500px;" />
 
 Project proposal is shown [here](/documents/proposal.md).
 
