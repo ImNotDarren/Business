@@ -6,10 +6,10 @@
 
 ## Question/Need
 
-Lyft is a similar app with Uber but it's not performing as well as Uber. Most
-people would still pick Uber as their first transportation app to use. By
-analyzing Uber and Lyft ride dataset, we're able to provide Lyft a solution to
-increase its market and gain more profit.
+Lyft is a similar app with Uber but it's not performing as well as Uber. According to our dataset,
+54% of the customers use Uber and 46% of them use Lyft. There isn't a big difference which is good
+news, but by analyzing Uber and Lyft ride dataset, we're able to provide Lyft a solution to make its
+market share even bigger and gain more profit.
 
 ## Data discription
 
