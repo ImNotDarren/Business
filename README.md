@@ -9,9 +9,9 @@
 
 ## <a name="link-part-1">Abstract</a>
 
-Lyft is an app similar to Uber but it's not performing as well as Uber. According to our dataset,
-54% of the customers use Uber and 46% of them use Lyft. There isn't a big difference which is good
-news, but by analyzing Uber and Lyft ride dataset, we're able to provide Lyft a solution to make its
+Lyft is an app similar to Uber but it's not performing as well as Uber. According to the dataset I'm
+looking at, 54% of the customers use Uber and 46% of them use Lyft. There isn't a big difference which
+is good news, but by analyzing Uber and Lyft ride dataset, we're able to provide Lyft a solution to make its
 market share even bigger and gain more profit.
 
 <img src="images/img1.png" style="width: 150px;" />
