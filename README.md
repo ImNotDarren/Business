@@ -87,5 +87,5 @@ MVP document is shown [here](/documents/mvp.md).
 
 The slides are shown [here](/documents/slides.pdf).
 
-The dataset is shown [here](/rideshare_dataset.xlsx).
+The dataset is shown [here](/data/rideshare_dataset.csv).
 
