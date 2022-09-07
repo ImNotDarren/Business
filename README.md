@@ -36,7 +36,7 @@ sunrise time, and so on.
 
 ## <a name="link-part-5">Tools</a>
 
-* **Google Sheets** and **Microsoft Excel** for exploratory data analysis and visualization.
+* **Microsoft Excel** and **Pandas** for data cleaning and exploratory data analysis.
 * **Tableau** for visualization.
 
 ## <a name="link-part-6">Communication</a>
