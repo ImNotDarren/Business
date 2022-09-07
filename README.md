@@ -26,7 +26,7 @@ people's preference of booking taxies which can help Lyft improve their service.
 
 I randomly sampled the Uber and Lyft rideshare dataset in Boston, MA. It contains 2469 rows and
 20 columns. It includes the car type, price, distance, datetime, weather, source, coordinates, sunset,
-sunrise time, and so on.
+sunrise time, and so on. The data is provided by [Kaggle](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma)
 
 ## <a name="link-part-4">Algorithm</a>
 
