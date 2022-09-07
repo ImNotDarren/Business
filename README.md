@@ -76,7 +76,7 @@ or to provide some coupons to attract customers.
 - Sending more drivers to Back Bay, Fenway and North station areas.
 - Do survey in Beacon Hill, Haymarket Square, Northeastern University and West End areas to
 find out what makes them pick Uber over Lyft.
-- Enhence user interface to let customers order Lyft more easily and efficiently.
+- Enhance user interface to let customers order Lyft more easily and efficiently.
 - Building a model to predict daily rideshares to determine whether to send more drivers
 or to provide some coupons to attract customers.
 
