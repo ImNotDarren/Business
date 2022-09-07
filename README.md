@@ -36,5 +36,7 @@ Project proposal is shown [here](/documents/proposal.md).
 
 MVP document is shown [here](/documents/mvp.md).
 
+The slides are shown [here](/documents/slides.pdf).
+
 The Excel file is shown [here](/rideshare_dataset.xlsx). (Not finished yet)
 
