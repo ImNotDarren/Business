@@ -30,7 +30,9 @@ sunrise time, and so on.
 
 ## <a name="link-part-4">Algorithm</a>
 
-
+- Randomly sample data using Pandas.
+- Perform data analysis using Microsoft Excel
+- Build vitualizations using Tableau
 
 ## <a name="link-part-5">Tools</a>
 
